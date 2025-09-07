@@ -7,38 +7,14 @@ Uma jovem explorando o **imenso mundo da tecnologia**! 👩‍💻 Sempre curios
 ## 🚀 Tecnologias que adoro explorar
 
 <p align="center">
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/>
-    <div>Java</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/>
-    <div>Python</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" title="C++"/>
-    <div>C++</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=flutter" width="50" title="Flutter"/>
-    <div>Flutter</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=dart" width="50" title="Dart"/>
-    <div>Dart</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/>
-    <div>HTML5</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/>
-    <div>CSS3</div>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=aws" width="50" title="AWS"/>
-    <div>AWS</div>
-  </div>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" width="50" title="C++"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter" width="50" title="Flutter"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart" width="50" title="Dart"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" width="50" title="AWS"/></a>
 </p>
 
 ---
