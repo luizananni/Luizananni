@@ -15,13 +15,11 @@ Uma jovem recém explorando o imenso mundo da tecnologia! 👩🏻‍💻
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" width="50" title="AWS"/></a>
 </p>
 
-## Qualidades e Experiências 💡
+## Hard Skills 💡
 
-<p align="center">
-  <span style="margin: 10px;">✅ Experiência com **gestão de projetos** e metodologias ágeis</span><br>
-  <span style="margin: 10px;">✅ Vivência prática com **Scrum**, incluindo sprints e product backlog</span><br>
-  <span style="margin: 10px;">✅ Habilidade em **Qualidade e Testes de Software**</span><br>
-</p>
+- Experiência com gestão de projetos e metodologias ágeis;
+- Vivência prática com Scrum, incluindo sprints e product backlog;
+- Habilidade em qualidade e testes de software.
 
 ## Conecte-se comigo ✨
 
