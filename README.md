@@ -28,7 +28,7 @@ Uma jovem recém explorando o imenso mundo da tecnologia! 👩🏻‍💻
   <a href="mailto:luiza.rwnanni@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" title="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/luiza-nanni-82a917248" target="_blank">
+  <a href="https://www.linkedin.com/in/luiza-nanni" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" title="LinkedIn"/>
   </a>
 </p>
