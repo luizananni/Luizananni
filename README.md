@@ -1,7 +1,6 @@
 ### **Olá, eu sou a Luiza! 💖**
 
 Uma jovem recém explorando o imenso mundo da tecnologia! 👩🏻‍💻
----
 
 ## Tecnologias já exploradas! 🚀
 
@@ -16,7 +15,6 @@ Uma jovem recém explorando o imenso mundo da tecnologia! 👩🏻‍💻
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" width="50" title="AWS"/></a>
 </p>
 
----
 
 ## Conecte-se comigo ✨
 
