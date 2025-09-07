@@ -1,10 +1,9 @@
-### Oii, eu sou a Luiza 💖
+### Olá, eu sou a Luiza! 💖
 
-Uma jovem explorando o **imenso mundo da tecnologia**! 👩‍💻 Sempre curiosa, aprendendo e desenvolvendo projetos incríveis.
-
+Uma jovem recém explorando o **imenso mundo da tecnologia**! 👩🏻‍💻
 ---
 
-## 🚀 Tecnologias que adoro explorar
+##  Tecnologias já exploradas! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/></a>
@@ -19,10 +18,10 @@ Uma jovem explorando o **imenso mundo da tecnologia**! 👩‍💻 Sempre curios
 
 ---
 
-## ✨ Conecte-se comigo
+##  Conecte-se comigo ✨
 
 <p align="center">
-  <a href="https://www.instagram.com/luiza_rwnanni" target="_blank">
+  <a href="https://www.instagram.com/dev_nanni/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" title="Instagram"/>
   </a>
   <a href="https://discord.gg/lulu_nanni" target="_blank">
