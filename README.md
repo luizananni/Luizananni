@@ -1,9 +1,9 @@
-### Olá, eu sou a Luiza! 💖
+### **Olá, eu sou a Luiza! 💖**
 
-Uma jovem recém explorando o **imenso mundo da tecnologia**! 👩🏻‍💻
+Uma jovem recém explorando o imenso mundo da tecnologia! 👩🏻‍💻
 ---
 
-##  Tecnologias já exploradas! 🚀
+## Tecnologias já exploradas! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/></a>
@@ -18,7 +18,7 @@ Uma jovem recém explorando o **imenso mundo da tecnologia**! 👩🏻‍💻
 
 ---
 
-##  Conecte-se comigo ✨
+## Conecte-se comigo ✨
 
 <p align="center">
   <a href="https://www.instagram.com/dev_nanni/" target="_blank">
